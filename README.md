@@ -15,17 +15,17 @@ _Shopping Patterns:_ Total Spend, Items Purchased, Days Since Last Purchase
 _Feedback:_ Average Rating, Satisfaction Level
 _Promotions:_ Discount Applied
 
-# Gender and Spending Patterns:
+### Gender and Spending Patterns:
 Gender distribution and average spending analyzed using bar charts.
-# Age Group Analysis:
+### Age Group Analysis:
 Segmented customers into age groups and studied their spending behavior.
-# City-wise Analysis:
+### City-wise Analysis:
 Examined customer distribution and average age across cities using heatmaps and pie charts.
-# Membership Type Insights:
+### Membership Type Insights:
 Gold and Silver members showed higher spending trends.
-# Satisfaction Levels:
+### Satisfaction Levels:
 Compared counts of "Satisfied," "Neutral," and "Unsatisfied" customers.
-## Correlation Heatmap:
+### Correlation Heatmap:
 Visualized relationships between numerical attributes like Age, Total Spend, Items Purchased, and Average Rating.
 
 # Insights:
