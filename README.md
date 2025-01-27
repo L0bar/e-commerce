@@ -34,6 +34,9 @@ Visualized relationships between numerical attributes like Age, Total Spend, Ite
 
 # Insights:
 _Spending Trends:_ Gold members spend the most, followed by Silver. 
+
 _Age Group Behavior:_ Young adults (19-30) are the largest spenders. 
-_City Insights:_ Spending varies significantly by city, with key differences in gender distribution. 
+
+_City Insights:_ Spending varies significantly by city, with key differences in gender distribution.
+
 _Customer Satisfaction:_ Satisfied customers form the largest group, highlighting opportunities for improvement.
