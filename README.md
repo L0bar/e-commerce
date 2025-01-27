@@ -10,9 +10,13 @@ This project focuses on analyzing customer data to uncover insights about spendi
 The dataset contains 350 customer records with the following attributes:
 
 _Customer Details:_ ID, Gender, Age, City
+
 _Membership Information:_ Membership Type
+
 _Shopping Patterns:_ Total Spend, Items Purchased, Days Since Last Purchase
+
 _Feedback:_ Average Rating, Satisfaction Level
+
 _Promotions:_ Discount Applied
 
 ### Gender and Spending Patterns:
